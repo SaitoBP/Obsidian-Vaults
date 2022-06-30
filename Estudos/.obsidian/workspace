@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metodologias Ageis/Kanbam.md",
+            "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Metodologias Ageis/Kanbam.md",
+            "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologias Ageis/Kanbam.md",
+                "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +128,12 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
-    "Metodologias Ageis/Kanbam.md",
+    "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
+    "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png",
     "Metodologias Ageis/DoD - Definition of Done.md",
-    "Metodologias Ageis/JIT - Just in Time.md",
-    "Metodologias Ageis/DoR - Definition Of Ready.md"
+    "Metodologias Ageis/UML - Unified Modeling Language.md",
+    "Metodologias Ageis/DoR - Definition Of Ready.md",
+    "Metodologias Ageis/Kanbam.md",
+    "Metodologias Ageis/JIT - Just in Time.md"
   ]
 }
