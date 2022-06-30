@@ -1,0 +1,2 @@
+# DoR - Definition Of Ready 
+Traduzido para o portugues significa a "Definição de Preparado", é uma técnica de qualidade e gestão de risco que apoia a entreda de uma historia para o delivery. Basicamente são pré-requisitos de um backlog, para que seja considerado apto para iniciar o desenvolvimento.

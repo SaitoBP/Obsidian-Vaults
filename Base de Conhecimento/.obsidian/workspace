@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "df84d6531be26cd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3b144438c3f05d",
+        "type": "leaf",
+        "dimension": 66.92307692307692,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JIT - Just in Time.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "276cada13d66a022"
+      },
+      {
+        "id": "dd0ee258291b44c1",
+        "type": "leaf",
+        "dimension": 33.07692307692307,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "JIT - Just in Time.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "276cada13d66a022"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2ab62fab6c3c4ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "563f49ae3cbf52f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3a1532a38a6986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f23a8769001b90cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1516d42f57fc515a",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ab52c92f1b58ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e12a83d4ea3f2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JIT - Just in Time.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e3b144438c3f05d",
+  "lastOpenFiles": [
+    "JIT - Just in Time.md",
+    "Kanbam.md",
+    "DoD - Definition of Done.md",
+    "DoR - Definition Of Ready.md"
+  ]
+}

@@ -1,0 +1,2 @@
+# JIT - Just in Time
+É um sistema de administração da produção que determina que tudo deve ser produzido, transportado ou comprado na hora exata. Pode ser aplicado em qualquer organização, para reduzir estoques e os custos decorrentes
