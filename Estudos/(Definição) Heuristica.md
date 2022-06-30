@@ -1,0 +1,2 @@
+# O que é uma Heuristica?
+É um procedimento mental simples que ajuda a encontrar respostas adequadas, embora várias vezes imperfeitas, para perguntas dificeis. A palavra tem a mesma raiz que [[Eureka]]

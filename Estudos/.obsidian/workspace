@@ -6,53 +6,26 @@
       {
         "id": "2e3b144438c3f05d",
         "type": "leaf",
-        "dimension": 66.92307692307692,
+        "dimension": 72.43589743589743,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
+            "file": "Typescript/Interface Vs. Type.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "276cada13d66a022"
+        "group": "5d80650b7047adb2"
       },
       {
-        "id": "dd0ee258291b44c1",
+        "id": "11652e09c2b1533a",
         "type": "leaf",
-        "dimension": 33.07692307692307,
+        "dimension": 27.564102564102566,
         "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
+          "type": "graph",
+          "state": {}
         },
-        "group": "276cada13d66a022"
+        "group": "5d80650b7047adb2"
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
+                "file": "Typescript/Interface Vs. Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +101,15 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
+    "Typescript/Interface Vs. Type.md",
+    "(Definição) Heuristica.md",
+    "Typescript/Example 01 - Interface Vs. Type.png",
+    "Metodologias Ageis/DoR - Definition Of Ready.md",
+    "Metodologias Ageis/DoD - Definition of Done.md",
+    "JavaScript.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png",
-    "Metodologias Ageis/DoD - Definition of Done.md",
     "Metodologias Ageis/UML - Unified Modeling Language.md",
-    "Metodologias Ageis/DoR - Definition Of Ready.md",
-    "Metodologias Ageis/Kanbam.md",
-    "Metodologias Ageis/JIT - Just in Time.md"
+    "Metodologias Ageis/Kanbam.md"
   ]
 }
