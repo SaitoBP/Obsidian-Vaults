@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JIT - Just in Time.md",
+            "file": "Kanbam.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "JIT - Just in Time.md",
+            "file": "Kanbam.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JIT - Just in Time.md",
+                "file": "Kanbam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,8 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
-    "JIT - Just in Time.md",
     "Kanbam.md",
+    "JIT - Just in Time.md",
     "DoD - Definition of Done.md",
     "DoR - Definition Of Ready.md"
   ]
