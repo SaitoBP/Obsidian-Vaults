@@ -6,26 +6,14 @@
       {
         "id": "2e3b144438c3f05d",
         "type": "leaf",
-        "dimension": 72.43589743589743,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typescript/Interface Vs. Type.md",
+            "file": "Validação de Senha e Confirmação de Senha com Yup.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "5d80650b7047adb2"
-      },
-      {
-        "id": "11652e09c2b1533a",
-        "type": "leaf",
-        "dimension": 27.564102564102566,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "5d80650b7047adb2"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Interface Vs. Type.md",
+                "file": "Validação de Senha e Confirmação de Senha com Yup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +89,7 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
+    "Validação de Senha e Confirmação de Senha com Yup.md",
     "Typescript/Interface Vs. Type.md",
     "(Definição) Heuristica.md",
     "Typescript/Example 01 - Interface Vs. Type.png",
@@ -109,7 +98,6 @@
     "JavaScript.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png",
-    "Metodologias Ageis/UML - Unified Modeling Language.md",
-    "Metodologias Ageis/Kanbam.md"
+    "Metodologias Ageis/UML - Unified Modeling Language.md"
   ]
 }
