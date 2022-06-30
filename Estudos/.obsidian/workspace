@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kanbam.md",
+            "file": "Metodologias Ageis/Kanbam.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Kanbam.md",
+            "file": "Metodologias Ageis/Kanbam.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanbam.md",
+                "file": "Metodologias Ageis/Kanbam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +128,9 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
-    "Kanbam.md",
-    "JIT - Just in Time.md",
-    "DoD - Definition of Done.md",
-    "DoR - Definition Of Ready.md"
+    "Metodologias Ageis/Kanbam.md",
+    "Metodologias Ageis/DoD - Definition of Done.md",
+    "Metodologias Ageis/JIT - Just in Time.md",
+    "Metodologias Ageis/DoR - Definition Of Ready.md"
   ]
 }
