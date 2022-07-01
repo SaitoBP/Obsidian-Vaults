@@ -7,13 +7,47 @@
         "id": "2e3b144438c3f05d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "graph",
+          "state": {}
+        },
+        "group": "276cada13d66a022"
+      },
+      {
+        "id": "dd0ee258291b44c1",
+        "type": "leaf",
+        "dimension": 33.07692307692307,
+        "state": {
+          "type": "localgraph",
           "state": {
-            "file": "Validação de Senha e Confirmação de Senha com Yup.md",
-            "mode": "source",
-            "source": false
+            "file": "Metodologias Ageis/DoD - Definition of Done.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
-        }
+        },
+        "group": "276cada13d66a022"
       }
     ],
     "direction": "vertical"
@@ -69,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validação de Senha e Confirmação de Senha com Yup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +122,12 @@
   },
   "active": "2e3b144438c3f05d",
   "lastOpenFiles": [
-    "Validação de Senha e Confirmação de Senha com Yup.md",
-    "Typescript/Interface Vs. Type.md",
-    "(Definição) Heuristica.md",
-    "Typescript/Example 01 - Interface Vs. Type.png",
-    "Metodologias Ageis/DoR - Definition Of Ready.md",
     "Metodologias Ageis/DoD - Definition of Done.md",
-    "JavaScript.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
     "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png",
-    "Metodologias Ageis/UML - Unified Modeling Language.md"
+    "Metodologias Ageis/UML - Unified Modeling Language.md",
+    "Metodologias Ageis/DoR - Definition Of Ready.md",
+    "Metodologias Ageis/Kanbam.md",
+    "Metodologias Ageis/JIT - Just in Time.md"
   ]
 }
