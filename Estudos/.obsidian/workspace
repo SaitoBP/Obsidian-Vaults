@@ -4,50 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3b144438c3f05d",
+        "id": "984e6effa0ab868b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "276cada13d66a022"
+          "type": "markdown",
+          "state": {
+            "file": "Repositorios/Monorepo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       },
       {
-        "id": "dd0ee258291b44c1",
+        "id": "304a5e60b1702552",
         "type": "leaf",
-        "dimension": 33.07692307692307,
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "Metodologias Ageis/DoD - Definition of Done.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Turborepo.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "276cada13d66a022"
+        }
       }
     ],
     "direction": "vertical"
@@ -103,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Turborepo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e3b144438c3f05d",
+  "active": "304a5e60b1702552",
   "lastOpenFiles": [
-    "Metodologias Ageis/DoD - Definition of Done.md",
-    "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
-    "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png",
-    "Metodologias Ageis/UML - Unified Modeling Language.md",
-    "Metodologias Ageis/DoR - Definition Of Ready.md",
-    "Metodologias Ageis/Kanbam.md",
-    "Metodologias Ageis/JIT - Just in Time.md"
+    "Turborepo.md",
+    "Repositorios/Monorepo.md",
+    "Docker.md",
+    "Repositorios/Multirepo.md",
+    "Arquitetura Monolitica.md",
+    "Repositorios/Git.md",
+    "Repositorios/Repositorios de Código.md",
+    "Módulo de Terraform.md",
+    "AWS.md",
+    "Metodologias Ageis/DoD - Definition of Done.md"
   ]
 }
