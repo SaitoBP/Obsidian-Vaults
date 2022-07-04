@@ -6,7 +6,7 @@
       {
         "id": "437c05e57cfff0e2",
         "type": "leaf",
-        "dimension": 67.5,
+        "dimension": 34.17721518987342,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,7 +20,7 @@
       {
         "id": "fc0e379ee9715108",
         "type": "leaf",
-        "dimension": 32.5,
+        "dimension": 65.82278481012658,
         "state": {
           "type": "localgraph",
           "state": {
@@ -129,6 +129,7 @@
   "active": "437c05e57cfff0e2",
   "lastOpenFiles": [
     "Metodologias Ageis/DoD - Definition of Done.md",
+    "conflict-files-obsidian-git.md",
     "Metodologias Ageis/DoR - Definition Of Ready.md",
     "Como Validar Enums (TypeScript) com Yup.md",
     "Yup/Validação de Senha e Confirmação de Senha com Yup.md",
@@ -136,7 +137,6 @@
     "Diversos/(Definição) Heuristica.md",
     "Typescript/Example 01 - Interface Vs. Type.png",
     "JavaScript.md",
-    "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md",
-    "Metodologias Ageis/Diagrama de Caso de Uso/Exemplo 01 - Diagrama de Caso de Uso.png"
+    "Metodologias Ageis/Diagrama de Caso de Uso/Diagrama de Caso de Uso.md"
   ]
 }
