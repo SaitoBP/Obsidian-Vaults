@@ -14,15 +14,7 @@ validationSchema: Yup.object({
 });
 ```
 
-Ou
+Caso ocorram erros no typescript, a seguinte solução pode servir
+[Solução](https://github.com/jquense/yup/issues/1013#issuecomment-1085998986:~:text=So%20I%20found,message%20here%22).
 
-```javascript
-Yup.object({
-  password: Yup.string().required('Password is required'),
-  passwordConfirmation: Yup.string()
-    .test('passwords-match', 'Passwords must match', function(value){
-      return this.parent.password === value
-    })
-})
-```
 [Referencia: StackOverflow](https://stackoverflow.com/questions/61862252/yup-schema-validation-password-and-confirmpassword-doesnt-work)
